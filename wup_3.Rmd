@@ -51,6 +51,8 @@ model1 <- aov(alcohol~Seat,data=davisdata)
 summary.aov(model1)
 ```
 
+After running the Inferential test we found that the probability of the poelpe in the front  and middle consum the same amount of alcohol as the poeple in the back being 0.000116.Therefore there is a significant difference between the 3.
+
 ## Conclusions
 
 
