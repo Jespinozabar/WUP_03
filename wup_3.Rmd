@@ -28,7 +28,7 @@ basicCN <- ggplot(davisdata,aes(y=alcohol,x=Seat))
 basicCN + geom_boxplot()
 ```
   
-  
+Based on the bloxplt the median of people who sit in the back consume the most alcohal than the others we can see that it looks higher than both the quartile ofpeople that sit in the front and the third quartile of those who sit in the middle.
   
 ### get fancy  
 
